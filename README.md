@@ -31,8 +31,12 @@ Later, this design will be implemented as a **full-stack web application** using
 
 ---
 
-## 🔗 View Full Figma Design
-[View on Figma](https://www.figma.com/file/your-figma-link-here)
+## 🔗 View Full Figma Design (Read-Only)
+
+You can view the Figma design **without editing** here:  
+[View Figma Prototype](https://www.figma.com/file/your-figma-file-id)  
+
+> Make sure the Figma link is set to **“Anyone with the link can view”** in Figma.
 
 ---
 
