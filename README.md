@@ -34,7 +34,7 @@ Later, this design will be implemented as a **full-stack web application** using
 ## 🔗 View Full Figma Design (Read-Only)
 
 You can view the Figma design **without editing** here:  
-[View Figma Prototype](https://www.figma.com/file/your-figma-file-id)  
+[View Figma Prototype](https://www.figma.com/design/BCfPKY1uF1DHzGY74CVtxG/SHOES-HOME?node-id=0-1&t=phNF3vuIBKRpi2jJ-1)  
 
 > Make sure the Figma link is set to **“Anyone with the link can view”** in Figma.
 
